@@ -1,16 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans+Condensed:300|Oswald');
 body {
-  background-color: #999999;
+  background-color: #bbbbbb;
+  background-image: url();
 }
 #page {
   width: 960px;
   margin: 0 auto;
+  margin-top: 200px;
 }
 h1 {
   font-family: 'Oswald', sans-serif;
-  color: DeepSkyBlue;
+  color: #000088;
 }
+h2 {
+  font-family: 'Oswald', sans-serif;
+  color: #0000ff;
+}
+
 p {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  text-indent: 20px;
+}
+li {
   font-family: 'Amatic SC', cursive;
   font-weight: bold;
 }
