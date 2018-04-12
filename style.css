@@ -18,11 +18,21 @@ h2 {
 }
 
 p {
-  font-family: 'Amatic SC', cursive;
-  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  font-weight: normal;
   text-indent: 20px;
 }
 li {
-  font-family: 'Amatic SC', cursive;
-  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  font-weight: normal;
+}
+
+article {
+  -webkit-columns: 4 150px;
+  -moz-columns: 4 150px;
+  columns: 4 150px;
+  height: 105px;
+}
+.strike { 
+text-decoration: line-through; /* Перечеркнутый текст */
 }
