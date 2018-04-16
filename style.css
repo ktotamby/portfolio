@@ -3,15 +3,27 @@ body {
   background-color: #bbbbbb;
   background-image: url();
 }
+
+header {
+  width: 100%;
+  background-color: #D8E3AB;
+  height: 70px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
 #page {
   width: 960px;
   margin: 0 auto;
-  margin-top: 200px;
+  margin-top: 10px;
+  <!-- отступ сверху -->
 }
+
 h1 {
   font-family: 'Oswald', sans-serif;
   color: #000088;
 }
+
 h2 {
   font-family: 'Oswald', sans-serif;
   color: #0000ff;
@@ -22,6 +34,7 @@ p {
   font-weight: normal;
   text-indent: 20px;
 }
+
 li {
   font-family: 'Oswald', sans-serif;
   font-weight: normal;
@@ -33,6 +46,11 @@ article {
   columns: 4 150px;
   height: 105px;
 }
-.strike { 
-text-decoration: line-through; /* Перечеркнутый текст */
+
+footer {
+  width: 100%;
+  background-color: #D8E3AB;
+  height: 70px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
 }
