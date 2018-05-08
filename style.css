@@ -12,6 +12,14 @@ header {
   text-align: center;
 }
 
+footer {
+  width: 100%;
+  background-color: #D8E3AB;
+  height: 70px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
 #page {
   width: 960px;
   margin: 0 auto;
@@ -45,12 +53,4 @@ article {
   -moz-columns: 4 150px;
   columns: 4 150px;
   height: 105px;
-}
-
-footer {
-  width: 100%;
-  background-color: #D8E3AB;
-  height: 70px;
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
 }
