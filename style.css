@@ -18,6 +18,17 @@ footer {
   height: 70px;
   font-family: 'Oswald', sans-serif;
   text-align: center;
+  /*img{
+    position:relative;
+    top:20px;
+    width:auto;
+    height:70px;	
+    align: right;
+  }*/
+  img-position:relative;
+  img-width:auto;
+  img-height:70px;	
+  img-align: right;
 }
 
 #page {
